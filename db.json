@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Buy dairy milk",
+      "description": "Supermarket Cow Milk"
+    },
+    {
+      "id": 2,
+      "title": "Buy Omelet",
+      "description": "Duck Eggs from the farm"
+    },
+    {
+      "id": 3,
+      "title": "Buy bread",
+      "description": "Bread from the bakery"
+    },
+    {
+      "id": 11,
+      "title": "GraphQL",
+      "description": "API Query Engine"
+    },
+    {
+      "id": 98,
+      "title": "swe",
+      "description": "NoSQL Database"
+    },
+    {
+      "id": 67,
+      "title": "Firebase",
+      "description": "One of the best BAAS"
+    }
+  ]
+}
